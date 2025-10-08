@@ -117,7 +117,7 @@ This trains all models, prints evaluation metrics, and shows graphs.
 2. Launch Streamlit Web App
 streamlit run app.py
 
-Open in your browser: http://localhost:8501
+Open in your browser: [http://localhost:8501](https://hdwpkdpcnbxrpaqpdemstx.streamlit.app/)
 
 
 
